@@ -1,0 +1,6 @@
+# Generated files
+_build
+target
+.flatpak
+.flatpak-builder
+dev.n3shemmy3.Kutamba.json~
